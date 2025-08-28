@@ -45,7 +45,7 @@
 }
 
 .dark-background {
-  --background-color: #040b14;
+  --background-color: #052f56;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #151f2b;
@@ -628,6 +628,7 @@ section,
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
+
 }
 
 .about .content ul {
@@ -726,7 +727,7 @@ section,
 # Resume Section
 --------------------------------------------------------------*/
 .resume .resume-title {
-  color: var(--heading-color);
+  color:#043869;
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
